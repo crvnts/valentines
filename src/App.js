@@ -40,7 +40,7 @@ function App() {
         <>
           <img
             alt="kittycat2"
-            src="httpshttps://storage.ko-fi.com/cdn/useruploads/display/051b1076-5d8a-44e9-a7b2-ed2bd9b91b4f_popcat_white.gif://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ4bWh6azMwcHRtdGwycGMyeDB0bGRhdHhscjhoOGl5MW03Z2hxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAn6JoVuABBEapYyX2/giphy.gif"
+            src="https://storage.ko-fi.com/cdn/useruploads/post/051b1076-5d8a-44e9-a7b2-ed2bd9b91b4f_popcat_white.gif"
           />
           <div>will you be my valentine?</div>
           <div>
